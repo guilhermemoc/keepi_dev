@@ -1,7 +1,7 @@
 
-<div align="center">
-![Alt text](keepi_logo_footer.png?raw=true "Keepi")
-</div>
+
+![Alt text](keepi_logo_footer.png?style=centerme "Keepi")
+
 
 # Bem vindo ao desafio Keep.i
 
