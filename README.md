@@ -1,5 +1,7 @@
-![Alt text](keepi_logo_footer.png?raw=true "Keepi")
 
+<div style="margin: 0 auto; display: block; text-align: center;">
+![Alt text](keepi_logo_footer.png?raw=true "Keepi")
+</div>
 
 # Bem vindo ao desafio Keep.i
 
@@ -24,7 +26,7 @@ Qualquer funcionalidade extra é bem vinda para agregar na solução básica pro
 O layout e por sua conta, seja criativo.
 A arquitetura é por sua conta, seja esperto.
 
-Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extra.
+Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extras.
 
 Não esqueça da otimização de velocidade da App nem da experiência do usuário.
 
