@@ -1,7 +1,4 @@
 
-
-![Alt text](keepi_logo_footer.png?style=centerme "Keepi")
-
 <p align="center">
   <img src="keepi_logo_footer.png">
 </p>
