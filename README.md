@@ -41,3 +41,7 @@ Entre os critérios de avaliação estão:
 * Documentação de código
 * Documentação do projeto (readme)
 * Performance
+
+
+
+This content is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it. For more information see [Supercell’s Fan Content Policy](http://www.supercell.com/fan-content-policy).
