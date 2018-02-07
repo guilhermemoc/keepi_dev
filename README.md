@@ -1,7 +1,10 @@
 
 
 ![Alt text](keepi_logo_footer.png?style=centerme "Keepi")
-
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
 
 # Bem vindo ao desafio Keep.i
 
